@@ -100,3 +100,5 @@ scripts/nuke
 
 # celery schedule file
 celerybeat-schedule*
+
+dockvault-webserver.tar
